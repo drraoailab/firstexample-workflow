@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: string
-        run: echo "Hello, World! - Tavant India "
+        run: echo "Hello, World! - Tavant Bangalore India "
 
       - name: multiline script
         run: |
@@ -28,7 +28,7 @@ jobs:
     steps:
       - name : Director powershell
         run : Get-Location
-        
+
       - name : Directort Bash
         run : pwd
         shell : bash
