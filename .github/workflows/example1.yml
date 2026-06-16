@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: string
-        run: echo "Hello, World! - Tavant Bangalore India "
+        run: echo "Hello, World! - Walmart Bangalore India "
 
       - name: multiline script
         run: |
