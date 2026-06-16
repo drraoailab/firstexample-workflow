@@ -34,7 +34,7 @@ jobs:
         shell : bash
 
       - name: string
-        run: echo "Hello, World! - Tavant India "
+        run: echo "Hello, World! - Walmart India "
 
       - name: multiline script
         run: |
